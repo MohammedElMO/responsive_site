@@ -1,4 +1,3 @@
-
 function ShopifyLogo() {
   return (
     <svg
