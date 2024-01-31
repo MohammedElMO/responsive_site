@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  body {
+    /* width: 100px; */
+    @apply bg-[#f3ede5] overflow-x-hidden
+  }
+}
+
+@layer components {
+  .golden {
+    color: rgba(245, 189, 8, 0.895);
+  }
+
+
+
+
+
+
+
+}
