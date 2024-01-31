@@ -1,7 +1,7 @@
 import CloseIcon from "./menu/CloseIcon";
 import FiberIcon from "./menu/FiberIcon";
+import GradieIcon from "./menu/GradieIcon";
 import SpenceIcon from "./menu/SpenceIcon";
-import GradieIcon from "./menu/gradieIcon";
 
 function ProductDropDown({ closeMenu }: { closeMenu: () => void }) {
   return (
